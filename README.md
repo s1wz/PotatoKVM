@@ -44,4 +44,4 @@ A slightly modified PiKVM instance with a 3D-printed case and screen, built usin
 - 3D printed a case for it, files are in `assets/` — keep in mind it was a 30-minute job and it clearly shows, subject to change
 =======
 - 3D printed a case for it, files are in `assets/` — keep in mind it was a 30-minute job and it clearly shows, subject to change
->>>>>>> 487ee87 (added assets)
+
