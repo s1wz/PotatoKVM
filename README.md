@@ -40,4 +40,8 @@ A slightly modified PiKVM instance with a 3D-printed case and screen, built usin
 ## Extras
 - Threw in a generic 5V AliExpress fan for cooling — works fine
 - Added a simple SPI display, code's in the `assets/` folder
+<<<<<<< HEAD
 - 3D printed a case for it, files are in `assets/` — keep in mind it was a 30-minute job and it clearly shows, subject to change
+=======
+- 3D printed a case for it, files are in `assets/` — keep in mind it was a 30-minute job and it clearly shows, subject to change
+>>>>>>> 487ee87 (added assets)
